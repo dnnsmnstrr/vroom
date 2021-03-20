@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/vroom/static/css/main.877e48e6.chunk.css",
+    "main.js": "/vroom/static/js/main.e394bc20.chunk.js",
+    "main.js.map": "/vroom/static/js/main.e394bc20.chunk.js.map",
+    "runtime-main.js": "/vroom/static/js/runtime-main.c00a98cc.js",
+    "runtime-main.js.map": "/vroom/static/js/runtime-main.c00a98cc.js.map",
+    "static/js/2.c3278bef.chunk.js": "/vroom/static/js/2.c3278bef.chunk.js",
+    "static/js/2.c3278bef.chunk.js.map": "/vroom/static/js/2.c3278bef.chunk.js.map",
+    "static/js/3.db67cd39.chunk.js": "/vroom/static/js/3.db67cd39.chunk.js",
+    "static/js/3.db67cd39.chunk.js.map": "/vroom/static/js/3.db67cd39.chunk.js.map",
+    "index.html": "/vroom/index.html",
+    "static/css/main.877e48e6.chunk.css.map": "/vroom/static/css/main.877e48e6.chunk.css.map",
+    "static/js/2.c3278bef.chunk.js.LICENSE.txt": "/vroom/static/js/2.c3278bef.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c00a98cc.js",
+    "static/js/2.c3278bef.chunk.js",
+    "static/css/main.877e48e6.chunk.css",
+    "static/js/main.e394bc20.chunk.js"
+  ]
+}
