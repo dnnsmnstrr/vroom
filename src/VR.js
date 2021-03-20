@@ -1,5 +1,4 @@
 import React, { useState } from 'react'
-import ReactDOM from 'react-dom'
 import { VRCanvas, Interactive, DefaultXRControllers } from '@react-three/xr'
 import { Text, Sky } from '@react-three/drei'
 import './styles.css'

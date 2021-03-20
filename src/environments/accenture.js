@@ -1,5 +1,4 @@
 import React from 'react'
-import PropTypes from 'prop-types'
 
 const LOGO_URL = 'https://5g.nrw/app/uploads/2020/11/Acc_Logo_Black_Purple_RGB-1536x405.png'
 const Accenture = (props) => {
